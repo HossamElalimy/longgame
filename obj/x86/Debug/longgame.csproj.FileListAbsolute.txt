@@ -1,0 +1,11 @@
+F:\msa\multimedia\longgame\bin\x86\Debug\longgame.exe.config
+F:\msa\multimedia\longgame\bin\x86\Debug\longgame.exe
+F:\msa\multimedia\longgame\bin\x86\Debug\longgame.pdb
+F:\msa\multimedia\longgame\obj\x86\Debug\longgame.csproj.AssemblyReference.cache
+F:\msa\multimedia\longgame\obj\x86\Debug\longgame.csproj.SuggestedBindingRedirects.cache
+F:\msa\multimedia\longgame\obj\x86\Debug\longgame.chero.resources
+F:\msa\multimedia\longgame\obj\x86\Debug\longgame.Properties.Resources.resources
+F:\msa\multimedia\longgame\obj\x86\Debug\longgame.csproj.GenerateResource.cache
+F:\msa\multimedia\longgame\obj\x86\Debug\longgame.csproj.CoreCompileInputs.cache
+F:\msa\multimedia\longgame\obj\x86\Debug\longgame.exe
+F:\msa\multimedia\longgame\obj\x86\Debug\longgame.pdb
